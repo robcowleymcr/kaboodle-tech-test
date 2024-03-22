@@ -1,7 +1,7 @@
 import { BrowserRouter, Route, Routes } from 'react-router-dom';
 import './App.css';
-import Form from "./Form";
-import Events from "./Events";
+import Form from "./pages/Form";
+import Events from "./pages/Events";
 import { useEffect } from 'react';
 
 function App() {

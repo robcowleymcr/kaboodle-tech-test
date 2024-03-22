@@ -1,4 +1,4 @@
-import useForm from "./useForm";
+import useForm from "../useForm";
 
 
 const FORM_ENDPOINT = "http://localhost:3000/event";

@@ -36,7 +36,7 @@ $ cd events
 $ npm run start
 ```
 
-The events page should automatically launch in the browser onm, if it doesn't then navigste to http://localhost:3001/
+The events page should automatically launch in the browser, if it doesn't then navigate to http://localhost:3001/
 
 To create an event navigate to http://localhost:3001/create
 

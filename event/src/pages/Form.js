@@ -95,7 +95,7 @@ const Form = () => {
             className="active:bg-blue-600 hover:shadow-lg focus:outline-none px-6 py-3 mb-1 mr-1 text-sm font-bold text-white uppercase transition-all duration-150 ease-linear bg-blue-500 rounded shadow outline-none"
             type="submit"
           >
-            Send a message
+            Submit event
           </button>
         </div>
       )}

@@ -1,0 +1,9 @@
+{
+    "name": "Main event",
+    "date": "2024/05/31 11:11:11",
+    "description": "Some random event",
+    "ticketName": "Standing",
+    "ticketType": "Adult",
+    "ticketPrice": 80.50,
+    "ticketAvailability": "Available"
+}
